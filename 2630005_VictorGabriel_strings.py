@@ -3,7 +3,6 @@
 # =============================================================================
 # Name:      VICTOR GABRIEL HERNANDEZ LUGO
 # Student ID: 263005
-# Group:     ______ (write your group here)
 # Topic:     Strings in Python
 # GitHub:    https://github.com/<your-user>/<your-repo>   (replace with your URL)
 # =============================================================================
